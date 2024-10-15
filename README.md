@@ -1,2 +1,0 @@
-# personalWebsite
-portfolio website project
